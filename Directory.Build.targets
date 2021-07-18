@@ -1,5 +1,4 @@
 <Project>
-
   <ItemGroup>
     <PackageReference Update="OrchardCore.Application.Cms.Targets" Version="1.0.0-rc2-16309" />
     <PackageReference Update="OrchardCore.ContentManagement" Version="1.0.0-rc2-16309" />
